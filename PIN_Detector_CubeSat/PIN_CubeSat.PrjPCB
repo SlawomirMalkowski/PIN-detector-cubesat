@@ -428,6 +428,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTJPJBSA
 
+[Document24]
+DocumentPath=Temp_sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=23
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUEGLUAP
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
