@@ -415,6 +415,26 @@ DocumentUniqueId=JUSYADQG
 DocumentPath=Project Outputs for PIN_CubeSat\Design Rule Check - PIN_detector_test_module.html
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Revision/Version
+Value=2.0
+
+[Parameter2]
+Name=Project
+Value=SiPMT Detector Platform
+
+[Parameter3]
+Name=ProjectDate
+Value=08.01.2020
+
+[Parameter4]
+Name=Company
+Value=WROSAT
+
+[Parameter5]
+Name=ProjectAuthor
+Value=Sławomir Małkowski
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
