@@ -416,24 +416,24 @@ DocumentPath=Project Outputs for PIN_CubeSat\Design Rule Check - PIN_detector_te
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company
-Value=WROSAT
+Name=Revision/Version
+Value=2.0
 
 [Parameter2]
-Name=Project
-Value=SiPMT Detector Platform
+Name=ProjectDate
+Value=08.01.2020
 
 [Parameter3]
 Name=ProjectAuthor
 Value=Sławomir Małkowski
 
 [Parameter4]
-Name=ProjectDate
-Value=08.01.2020
+Name=Project
+Value=SiPMT Detector Platform
 
 [Parameter5]
-Name=Revision/Version
-Value=2.0
+Name=Company
+Value=WROSAT
 
 [Configuration1]
 Name=Sources
@@ -1176,7 +1176,7 @@ Type67=1
 Type68=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
