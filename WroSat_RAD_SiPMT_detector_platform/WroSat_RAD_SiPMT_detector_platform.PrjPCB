@@ -401,7 +401,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=28
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -416,24 +416,24 @@ DocumentPath=Project Outputs for PIN_CubeSat\Design Rule Check - PIN_detector_te
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision/Version
-Value=2.0
+Name=Company
+Value=WROSAT
 
 [Parameter2]
 Name=Project
 Value=SiPMT Detector Platform
 
 [Parameter3]
+Name=ProjectAuthor
+Value=Sławomir Małkowski
+
+[Parameter4]
 Name=ProjectDate
 Value=08.01.2020
 
-[Parameter4]
-Name=Company
-Value=WROSAT
-
 [Parameter5]
-Name=ProjectAuthor
-Value=Sławomir Małkowski
+Name=Revision/Version
+Value=2.0
 
 [Configuration1]
 Name=Sources
